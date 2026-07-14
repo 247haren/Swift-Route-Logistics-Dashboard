@@ -262,7 +262,7 @@ The dashboard uses a simulated logistics dataset containing:
 [![GitHub](https://img.shields.io/badge/GitHub-247haren-black?style=for-the-badge&logo=github)](https://github.com/247haren)
 
 <!-- Replace with your LinkedIn profile -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/harendra-kumar-890127257/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/harendra-kumar-890127257/])
 
 </div>
 
